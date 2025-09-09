@@ -1,54 +1,68 @@
-# 👋 Hey there, I'm [Your Name]
-
-💻 **Full-Stack Developer | Problem Solver | Tech Explorer**
-
-I love building sleek, scalable, and impactful projects using modern technologies.  
-From crafting responsive UIs to designing powerful backends, I enjoy turning ideas into reality.
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=FF6B6B&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+[Your+Name];Full-Stack+Developer;Open+Source+Contributor;Always+Learning+New+Tech!)](https://git.io/typing-svg)
 
 ---
 
-## 🚀 Tech Stack
-
-**Frontend**  
-- HTML • CSS • JavaScript (ES6+)  
-- React • Redux • PrimeReact • Tailwind • Bootstrap • Magic UI  
-
-**Backend**  
-- Python • Django • Django REST Framework  
-- Node.js • .NET  
-
-**Databases**  
-- MySQL • MongoDB • Mongo Atlas • phpMyAdmin  
-
-**APIs**  
-- REST API • GraphQL  
-
-**Other Tools**  
-- Git • GitHub • VS Code  
-
-**Computer Science**  
-- Data Structures & Algorithms (DSA)  
+## 🚀 About Me
+💻 Passionate about **building scalable apps** and **designing smooth user experiences**  
+🎯 Currently exploring **GraphQL + Advanced DSA**  
+⚡ Fun fact: I can debug faster with coffee ☕  
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Tech Arsenal
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)
+<div align="center">
+
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind" />
+
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,dotnet" />
+
+<!-- Database -->
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
 
 ---
 
-## 🌱 What I’m Exploring
-- Mastering advanced **DSA patterns**  
-- Building full-stack projects with **React + Django**  
-- Diving deeper into **GraphQL & scalable APIs**
+## 📊 GitHub Stats & Streak
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical&count_private=true" height="170" />  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical" height="170" />
+
+</div>
 
 ---
 
-## 📬 Let’s Connect!
-- LinkedIn: [Your LinkedIn](#)  
-- Portfolio: [Your Portfolio](#)  
-- Email: [Your Email](#)
+## 📈 Most Used Languages
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical" />
+</div>
 
 ---
-⭐️ *Feel free to check out my repositories and drop a star if you find something cool!*  
+
+## ⚡ Featured Animation
+
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+<a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+⭐ *Thanks for stopping by! Don’t forget to check out my projects and leave a ⭐ if you like them.*
