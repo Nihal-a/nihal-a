@@ -1,42 +1,74 @@
-# 👋 Hello there, I'm [Your Name]
-
-### 🚀 Full-Stack Developer
-
-I love building impactful projects using modern technologies. My passion lies in crafting robust backends and delightful user interfaces.
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+[Your+Name];Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things!)](https://git.io/typing-svg)
 
 ---
 
-### 🛠️ My Tech Stack
-
-| Type      | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Frontend** | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"> |
-| **Backend** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"> |
-| **Databases**| <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"> |
-| **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"> |
+## 🚀 About Me  
+💻 Passionate about crafting **scalable apps** & **delightful UIs**  
+🎯 Exploring **DSA + GraphQL + Scalable APIs**  
+☕ Debugging sessions powered by **coffee**  
 
 ---
 
-### 🌱 What I'm Exploring
+## ⚔️ Tech Arsenal  
 
-* Advanced **DSA** patterns 
-* Full-stack projects with **React + Django**
-* Deeper knowledge of **GraphQL & scalable APIs**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:FF6B6B&height=120&section=header&text=My%20Skills&fontSize=35&fontColor=fff&animation=twinkling" />
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,dotnet" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:6A5ACD&height=120&section=footer&animation=twinkling" />
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats  
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170" />  
+<img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true" height="170" />  
+
+</div>
+
+---
+
+## 📈 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 📬 Let's Connect!
-
-* **[LinkedIn](https://www.linkedin.com/in/YOURUSERNAME)**
-* **[Portfolio](https://yourportfolio.com)**
-* **[Email](mailto:youremail@example.com)**
+## ⚡ Featured Animation  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding animation"/>
+</p>
 
 ---
-⭐️ *Feel free to explore my repositories!*
+
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://linkedin.com/in/YOURUSERNAME"><img src="https://img.shields.io/badge/LinkedIn-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+⭐ *Thanks for visiting! Don’t forget to ⭐ some repos if you like them 😃*
