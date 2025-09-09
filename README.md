@@ -22,7 +22,7 @@
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
 ### 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,phpMyAdmin" />
 
 ---
 
