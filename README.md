@@ -21,7 +21,6 @@
 ### 🔌 APIs
 <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white" />
 
 ### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
