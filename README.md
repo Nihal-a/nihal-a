@@ -41,18 +41,8 @@
 ## 📈 Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical" />
 
----
-
-## ⚡ Featured Animation
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 
 ---
 
-## 🌐 Connect With Me
-<a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>  
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>  
-<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" /></a>  
-
----
 
 ⭐ *Thanks for stopping by! Don’t forget to check out my projects and leave a ⭐ if you like them.*
