@@ -22,7 +22,9 @@
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
 ### 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,phpMyAdmin" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/66/PhpMyAdmin_logo.svg" width="48" height="48" alt="phpMyAdmin" />
+
 
 ---
 
