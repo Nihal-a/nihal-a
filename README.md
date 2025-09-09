@@ -13,7 +13,7 @@
 ## 🛠️ Tech Arsenal
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,redux,bootstrap,tailwind" />
 
 ### ⚙️ Backend
 <img src="https://skillicons.dev/icons?i=python,django,nodejs,dotnet" />
