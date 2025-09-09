@@ -9,26 +9,54 @@
 ⚡ Fun fact: I can debug faster with coffee ☕  
 
 ---
+## ⚔️ Tech Arsenal  
 
-## 🛠️ Tech Arsenal
+<!-- Wavy Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:6A5ACD&height=120&section=header&text=My%20Skills&fontSize=35&fontColor=fff&animation=twinkling" />
 
-<div align="center">
-
-<!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind" />
-
-<!-- Backend -->
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,dotnet" />
-
-<!-- Database -->
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
-<!-- Tools -->
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
+### 🎨 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000&color=E34F26&label=)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=000&labelColor=F7E018&color=F7E018)  
+![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000&color=61DBFB&label=)  
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
+![PrimeReact](https://img.shields.io/badge/PrimeReact-41B883?style=for-the-badge&logo=react&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
 ---
+
+### ⚙️ Backend
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white)  
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
+
+---
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Mongo Atlas](https://img.shields.io/badge/MongoAtlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=php&logoColor=white)  
+
+---
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+
+---
+
+### 🤖 CS Fundamentals
+![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-2F4F4F?style=for-the-badge&logo=leetcode&logoColor=white)  
+
+<!-- Wavy Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:FF6B6B&height=120&section=footer&animation=twinkling" />
+
 
 ## 📊 GitHub Stats & Streak
 
