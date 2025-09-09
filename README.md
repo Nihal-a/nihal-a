@@ -12,21 +12,25 @@
 
 ## 🛠️ Tech Arsenal
 
-<div align="center">
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind" />
+</p>
 
-<!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind" />
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,dotnet" />
+</p>
 
-<!-- Backend -->
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,dotnet" />
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-<!-- Database -->
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
-<!-- Tools -->
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
+### 🛠️ Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
