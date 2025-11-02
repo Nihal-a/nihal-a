@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 💻 Passionate about **building scalable apps** and **designing smooth user experiences**  
-🎯 Currently exploring **GraphQL + Advanced DSA**  
+🎯 Currently exploring ** Advanced DSA**  
 ⚡ Fun fact: I can debug faster with coffee ☕  
 
 ---
